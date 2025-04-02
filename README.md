@@ -1,26 +1,35 @@
-# 👋 Olá, eu sou João Silva!
+# 👋 Olá, eu sou Richard Willian!
 
-**Desenvolvedor Full-Stack | Apaixonado por Open Source**
+**📊 Estudante de Análise de Dados**  
+*Apaixonado por transformar dados em insights acionáveis.*
 
-## Sobre Mim
-- 🌱 Aprendendo **Rust e Kubernetes**
-- 🔭 Trabalhando em um projeto de **IA para educação**
-- ⚡ Curiosidade: Adoro tocar violão e jogar xadrez!
+---
 
-## 🛠️ Tecnologias
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### **Sobre Mim**
+- 🌱 **Aprendendo:** Python para Análise de Dados | Power BI | Databricks  
+- 🚀 **Trabalhando em:** Construção de análises de dados para segmentos de mercado  
+- ⚡ **Curiosidade:** Adoro jogar futebol e assistir filmes nos cinemas! 🎬⚽  
 
-## 📊 Estatísticas
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=joaosilva&show_icons=true&theme=dark)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva&layout=compact&theme=dark)
+---
 
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaosilva)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao@email.com)
+### **🛠️ Tecnologias & Ferramentas**  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
-## 🎵 Atividade Recente
-<!--START_SECTION:activity-->
-<!-- Aqui pode ir uma atualização automática via GitHub Actions -->
-<!--END_SECTION:activity-->
+---
+
+### **📫 Contato**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardwmoliveira/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:richardtrainer683@gmail.com)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard-DevDSA&show_icons=true&theme=dark&hide_border=true)  
+
+---
+
+✨ **"Dados são como histórias não contadas. Minha missão é traduzi-las."**  
