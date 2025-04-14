@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Richard Willian!
 
 **📊 Estudante de Análise de Dados**  
-*Apaixonado por transformar dados em insights acionáveis.*
+*Apaixonado por transformar dados em insights.*
 
 ---
 
