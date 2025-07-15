@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Richard Willian!
 
-**📊 Estudante de Análise de Dados**  
+**📊 Auxiliar de Dados**  
 *Apaixonado por transformar dados em insights.*
 
 ---
@@ -19,6 +19,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-5449E3?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)](https://databricks.com/)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)](https://r.com/)
 
 ---
 
